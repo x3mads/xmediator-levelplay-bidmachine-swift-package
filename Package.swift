@@ -10,7 +10,7 @@ let package = Package(
         .library(name: "LevelPlayBidMachineAdapter", targets: ["LevelPlayBidMachineAdapterWrapper"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/ironsource-mobile/LevelPlay-BidMachine-Adapter-Swift-Package.git", exact: "5.9.0"),
+        .package(url: "https://github.com/ironsource-mobile/LevelPlay-BidMachine-Adapter-Swift-Package.git", exact: "5.10.0"),
     ],
     targets: [
         .target(
