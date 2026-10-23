@@ -8,8 +8,8 @@ use the LevelPlay BidMachine adapter together with Google's
 ## Usage
 
 Add this repository (`https://github.com/x3mads/xmediator-levelplay-bidmachine-swift-package.git`) and select the `LevelPlayBidMachineAdapter` product.
-Version `5.8.0` of this package corresponds to LevelPlay adapter
-`5.8.0` (<https://github.com/ironsource-mobile/LevelPlay-BidMachine-Adapter-Swift-Package.git>). Do not also add the official LevelPlay
+Version `5.9.0` of this package corresponds to LevelPlay adapter
+`5.9.0` (<https://github.com/ironsource-mobile/LevelPlay-BidMachine-Adapter-Swift-Package.git>). Do not also add the official LevelPlay
 BidMachine adapter package: both contain the same adapter binary.
 
 ## Why this package exists, and why it is built this way
